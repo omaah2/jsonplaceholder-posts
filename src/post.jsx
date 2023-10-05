@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-// src/Posts.js
-import EditPost from './Editpost'; // Check the path
-import DeletePost from './Deletepost'; // Check the path
+import EditPost from './Cmponents/Editpost'; 
+import DeletePost from './Cmponents/Deletepost'; 
 
 
 function Posts() {
